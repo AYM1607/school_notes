@@ -1,0 +1,80 @@
+#+title Control computarizado
+
+* Introduccion
+
+- No hay entregas tardias
+- Camaras encendidas
+- Asesorias de 10 a 12 (antes de la clase)
+- [[https://www.remind.com/classes/ccinv2020/messages/491940e9-b0d2-49a0-b103-17fdb8480ec1][Link al remind]]
+
+
+* Bibliografia
+
+Discrete time control systems, second edition
+
+* Ponderacion
+
+| Elemento        | Porcentaje |
+|-----------------+------------|
+| Primer parcial  |        20% |
+| Segundo parcial |        20% |
+| Examen final    |        30% |
+| Tareas          |        30% |
+| Total           |       100% |
+|                 |            |
+
+Va a haber un proyecto final que va a ser para puntos extra.
+
+* Clase 1
+** El diagrama de bloques representa las partes de un sistema controlado. Es una forma simplificada de representar cualquier sistema de control.
+** Los elementos de un diagrama de control:
+
+- Controlador
+- Actuador
+- Planta
+- Sensor
+
+Todos estos elementos podrian presentarse en un solo bloque.
+** Control computarizado se refiere a analizar sistemas de forma discreta, es decir que se tiene que discretizar los sistemas de nuestro entorno y analizarlos de esta manera.
+** Un controlador digital necesita un holder para transformar de senales discreta y digital a discreta y continua.
+** Se dice que la transformada de Laplace para un sistema continuo existe si la integral de Laplace converge con el tiempo
+** Tarea
+*** DONE Desarrollar la transformada de Laplace de una funcion rampa
+CLOSED: [2021-01-05 Tue 22:08]
+[[file:Images/LapTransRamp.jpeg][Imagen solucion]]
+*** TODO Revisar los teoremas de la transformada de Laplace
+- Diferenciacion
+- Integracion
+- Valor final
+* Clase 2
+Hay sistemas de control que son muy lentos y otros que deben ser muy rapidos. No es necesario tener *delays* en nuestro diagrama de bloques. Esto lo podemos sustituir con el *clock* o mas especificamente el tiempo de muestreo.
+
+Cuando se trabaja en espacio de estados tenemos tener sistemas con multiples entradas y salidas. Tipicamente cuando se trabaja con diagramas de 
+bloques hablamos de sistemas con una sola entrada y una sola salida.
+
+Un *transductor* (sensor) transforma una variable fisica en otra. Este sensor debe colocarse despues de la planta.
+
+Para trabajar con un sistema de forma digital, las senales se tienen que discretizar. La salida del sistema se muestrea y pasa por un ADC, se procesa y poesteriormente pasa a un DAC y un retenedor.
+
+Por lo general, los muestreadores y los retenedores tienen integrados sus ADC y DAC respectivamente.
+
+[[file:SamplingAndHolding.png][Sampler and holder]]
+
+Cuando muestreamos una senal se debe hacer al menos al deoble de la frequencia de la senal, pero como regla de dedo, al menos 10 veces deberia ser
+suficiente. Cuando se muestrea al minimo (2 veces la frecuencia) aun se pierde una cantidad muy importante de informacion.
+
+Cuando se trabaja con un sistema es importante considerar que precision necesitamos y asi decidir de cuantos bits sera nuestro ADC y DAC.
+
+Para discretizar una senal esta se multiplica (operacion de convolucion) por un tren de impulsos, que en teoria no deberian tener duracion, en la 
+practica tiene una duracion de *p* que depende del tiempo que se tarda en abrir y cerrar la compuerta del transistor en el muestreador que estamos
+utilizando.
+
+** Ejercicio:
+Encontrar algun sistema en el area de mi interese y realizar su diagrama de lazo cerrado de la manera mas completa posible.
+
+[[file:Actividad1.png][Imagen resultado]]
+
+** Tarea
+*** TODO Revisar el concepto de convolucion
+*** TODO Hacer el autodiagnostico de transformada de Laplace
+

@@ -1,0 +1,80 @@
+#+title Notas servicio social
+
+El nombre del servicio social es PymesSOS
+
+[[https://itesm.zoom.us/my/christiansalazar][Link al servicio social]]
+
+
+* Administracion del conocimiento
+- El alumno (yo) tiene la responsabilidad de ver el material pasado de los cursos impartidos.
+- El alumno toma los modulos junto con los empresarios.
+- El alumno se reuno 1on1 con el empresario para trabajar en los entregables de su plan de digitalizacion.
+
+* Tips
+- Tener una hora fija para hablar con los empresarios.
+- Si una empresa ya tiene alguno de los entregables de todas maneras se tiene que hacer, dandoles un extra.
+- La informacion de la empresa (mision, vision, productos, servicios, etc) no es responsabilidad del alumno.
+- La idea es apoyar a los empresarios, hay que abordar las interacciones on la idea de colaborar y no de imponer.
+
+* Fundamentos de transformacion digital
+La pandemia a acelerado la transformacion digital de las empresas. El porcentaje de personas maduras que han comenzado a utilizar internet
+tambien a aumentado considerablemente. Estas personas maduras tienen alto nivel adquisitivo por lo tanto se abren nuevos mercados.
+
+Las personas de nivel socio economico medio bajo son los que mas utilizan internet (al menos en el 2017).
+
+Debido a la pandemia, la curva de uso diario de internet se ha aplanado. Es decir el uso se ha aumentado en general.
+
+Las tendencias de consumo durante la pandemia cambian rapidamente, durante Junio de este ano era tinte para pelo y tijeras para cortar pelo
+
+Estar en internet es un *deber para todos*.
+
+Calii es un startup de transformacion digital, transforma el negocio de venta de verduras en digital.
+
+Pymes SOS tiene como objetivo digitalizar el proceso comercial, separando marketing y ventas.
+
+** Marketing 
+Son las herramientas para comunicar el valor del producto. Es comunicar los valores que representan la empresa o el producto/servicio
+Se debe comunicar tanto la lista de productos o servicios como el valor que este ofrece.
+
+No se debe usar *calidad* ni *servicio al cliente* como propuestas de valor porque son muy generales. Estos podria reemplazarse por hecho
+a detalle y servicio personalizado.
+
+*** Estrategia
+Se puede dividir en un arbol que contiene: Metas/Objetivos estrategicos -> Objetivos -> Estrategias -> Tacticas/Actividades
+
+** Ventas (Anuncion de ventas)
+Es convertir el interes de un prospecto a una ingreso.
+
+Etapas:
+- Prospectar
+- Presentar
+- Negociar (manejo de objeciones)
+- Cierre
+- Postventa
+
+
+* Segmentacion de mercado
+
+Un segmento de mercado es un grupo especifico de individuos a los cuales queremos ofrecer nuestro bien.
+
+El primer error de la segmentacion es decir que el segmento son "todos". Hay que ser especificos.
+
+[[https://www.economia.com.mx/niveles_de_ingreso.htm][Niveles socioeconomicos]]
+
+[[https://www.inegi.org.mx/app/mapa/denue/default.aspx][Denue]] para saber los segmentos de las empresas e incluso obtener sus nombres y contacto. El Giro es *Industrial, Servicios o Comercializacion*
+
+** Oxxo
+Para poner un ejemplo con Oxxo, podriamos decir que todos, sin embargo tienen 3 segmentso:
+
+- Oficinistas y estudiantes
+- Amas de casa
+- Fiesteros y nocturnos
+
+Oxxo analiza millones de tickets al ano para comprender el comportamiento de sus clientes, asi generan estrategias  de precios para incitar
+ventas cruzadas.
+
+Oxxo empezo como un deposito pero fue ampliando sus segmentos de mercado.
+
+Tienn tanto B2C como B2B ya que ofrecen pago de servicios e incluso su propia cuenta bancaria en asociacion con banamex.
+
+

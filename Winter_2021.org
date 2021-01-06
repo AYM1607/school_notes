@@ -1,0 +1,6 @@
+* Economia 8:00-10:00 
+<%%(memq (calendar-day-of-week date) '(1 2 3 4 5))>
+* Control computarizado 12:00-2:00
+<%%(memq (calendar-day-of-week date) '(1 2 3 4 5))>
+* Servicio social 17:00-19:00
+<%%(memq (calendar-day-of-week date) '(1 2 3 4 5))>

@@ -1,0 +1,161 @@
+#+title Economia para la creacion de negocios
+
+Los primeros temas van a estar relacionados a microeconomia, el objetivo de dar este curso a ingenieros fue incrementar las posibilidades de exito 
+en los emprendimientos.
+
+* Bibliografia
+[[https://0-ebookcentral-proquest-com.biblioteca-ils.tec.mx/lib/itesmcengage/reader.action?docID=4870131][Libro de texto]]
+
+* Informacion del profesor
+Email: [[mailto:fabian.pino@tec.mx][fabian.pino@tec.mx]]
+Telefono: 8112295628
+
+* Ponderacion
+
+| Elemento                        | Porcentaje |
+|---------------------------------+------------|
+| Primer parcial                  |        20% |
+| Segundo parcial                 |        20% |
+| Tareas, participacion           |        20% |
+| Plan de negocios y presentacion |        20% |
+| Examen final                    |        20% |
+| Total                           |       100% |
+|                                 |            |
+
+* Capitulo 1
+Economia viene de oikonomos y significa el que administra el hogar. Si lo analizamos, el hogar tiene similitudes con la sociedad, ya que en ambos
+se toman muchas decisiones en cuanto a quien realiza que trabajos y como se administran los recursos escasos.
+
+*Escasez*
+Hace referencia al caracter limitado que tienen los recursos en una sociedad.
+*Economia*
+Es el estudio de como la sociedad administra sus recursos escasos. a su vez, los economistas estudian como las personas toman
+decisiones. Los economistas tambien analizan las fuerzas y tendencias que afectan a la economia en conjunto (ingreso promedio, tasa de
+desempleo, tasa de inflacion, etc)
+
+Economia tambien hace referencia a un a un grupo de personas interactuando en su vida diaria.
+
+** Los 10 principios de la economia
+*** Principio 1: Las personas enfrentan disyuntivas
+Para obtener lo que deseamos por lo general tenemos que renunciar a algo que tambien nos gusta (costo de oportunidad). Diariamente nos
+enfrentamos a disyuntivas, por ejemplo como asignar las horas del dia a tareas pendientes.
+
+Un ejemplo de disyuntivas en el gobierno es en entre armas y alimentos. Entre mas se gaste en defensa nacional menos se puede asignar a bienes
+de consumos que mejoren la calidad de vida de la poblacion y viceversa.
+
+Otra disyuntiva son las leyes para el mejoramiento del medio ambiente que al mismo tiempo reducen las ganancias de las empresas y por
+consiguiente, de sus trabajadores y clientes.
+
+*Eficiencia* Es la propiedad de la sociedad de aprovechar al maximo sus recursos
+*Igualdad* Propiedad de distribuir de manera equitativa la prosperidad economica entre los miembros de la sociedad.
+
+Cuando el gobierno redistribuye el ingreso de los ricos a los pobres reduce la recompensa del trabajo duro, esto causa que las personas tiendan 
+a trabajar menos. Es decir, entre mejor distribuido el pay, mas pequeno se vuelve.
+*** Principio 2: El costo de algo es aquello a lo que se renuncia para obtenerlo
+Debido a que a menudo nos entrentamos a disyuntivas, es necesario evaluar los costos y beneficios de las opciones que se nos presentan.
+
+Cuando evaluamos los costos de una opcion, es importante solo considerar lo que es verdaderamente atribuible a ella. Si tomaramos como ejemplo 
+alojamiento y comida al estudiar en la universidad, el costo real de eso es solo la diferencia que se observa por estar estudiando (rentas y 
+costos de comidas elevados por cercania a la universidad).
+
+Al evaluar una opcion tambien es imprescindible tomar en cuenta el tiempo, es decir, el costo de oportunidad que esta implica. Por cada hora que pasamos estudiando, es una hora menos en la que podriamos estar trabajando.
+*** Principio 3: Las personas racionales piensan en terminos marginales
+Los economistas no toman en cuenta que las personas tomand decisiones en base a sus emociones, los mercadologos si. Los economistas asumen que 
+*las personas son racionales* (deliberada y sistematicamente hacen lo posible para lograr sus objetivos).
+
+Estudiando economia se encuentran distintaos escenarios, como empresas que deciden cuantos trabajadores contratar y cuanto producir para maximizar sus ganancias o personas que deciden cuantas horas trabajar y en que bienes y servicios gastar sus recursos. Las personas saben que 
+al tomar decisiones por lo general las opciones no son "blanco y negro" sino que hay muchos matices de grises.
+
+El termino *cambio marginal* hace referencia a los ajustes que hacemos a planes ya existentes. Las personas racionales toman decisiones comparando los beneficios marginales y los costos marginales.
+
+Tomemos el ejemplo de volar un avion: Asumamos que el costo de un asiento (el costo de volar el avion entre el numero de asientos) es de $500. Si el avion estuviera a punto de volar con 10 asientos vacios y un pasajero sin reservacion quisiera comprar un boleto por $300 se deberia vender? Si tomamos en cuenta el costo promedio ($500) la respuesta seria no, pero si tomamos en cuenta el costo marginal (La botana y bebida que se le ofrecera durante el vuelo) en definitiva si.
+
+La disposicion de una persona a adquirir un producto se basa en el beneficio marginal que este ofrece, por eso una botella de agua es mucho mas barata que un anillo de diamantes.
+*** Principio 4: Las personas responden a los incentivos
+Un incentivo es algo que induce a las personas a actuar. En economista en una ocasion dijo "Las personas responden a los incentivos, lo demas es irrelevante" destacando la importancia de este concepto.
+
+Un incentivo importante es el precio de un bien, un precio elevado incentiva a los compradores a consumir menos y a los productores a producir mas.
+
+Otro ejemplo de incentivo podria ser un impuesto a la gasolina, que impulsaria a la sociedad a utilizar automoviles compactos o incluso hibridos/electricos o a utilizar el transporte publico.
+
+Al analizar politicas publicas se deben tomar en cuenta tanto los efectos directos como los indirectos. Cuando se promulgo la ley de cinturones de seguridad obligatorios se redujo el numero de muertes por accidente automobilistico, sin embargo, se incentivo a los conductores a ser menos cuidadosos aumentando el numero de accidentes.
+*** Principio 5: El comercio puede mejorar el bienestar de todos
+El comercio entre 2 naciones no es como una competencia deportiva en la que se gana y se pierde, por el contrario, este beneficia a las naciones participantes.
+
+Una analogia util es reducir la escala a una familia. Cuando el miembro de una familia busca trabajo, este esta compitiendo con otras familias, y cuando estos salen de compras, compiten contra otras familias para encontrar los precios mas bajos. Pero si la familia se aislara por completo tendria peores consecuencias porque tendria que cultivar y producir todo lo necesario para cubrir sus necesidades.
+
+El comercio permite a las personas y naciones especializarse en lo que mejor saben hacer y disfrutar de mayor variedad de bienes y servicios.
+*** Principio 6: Los mercados son buenos para organizar la actividad economica
+Los paises comunistas funcionan abjo la premise que el gobierno es el mas indicado para decidir la distribucion de los recursos. En una 
+*economia de mercado* las decisiones que antes eran centralizadas (tomadas por el gobierno) se sustitullen por las decision de millones de 
+hogares y empresas.
+
+*Las empresas* Deciden a quien contratar, que producir o que servicios ofrecer
+*Las familias* Deciden donde trabajar y en que gastar su dinero
+
+Las *economias de mercado* han demostrado que son capaces de organizar los recursos para promover el bienestar general de la sociedad.
+
+En 1776 *Adam Smith* que los hogares y las empresas actuan como si fueran guiados por una *mano invisible* que los guia a obtener los resultados
+deseables para el mercado.
+
+Los *precios* son un instrumento que sirve a la mano invisible para dirigir la actividad economica y estos reflejan tanto el valor del bien
+ante la sociedad asi como el costo de producirlo para las empresas.
+
+Los *impuestos* o cualquier otra intervencion del gobierno afectan negativamente la economia porque impiden que la mano invisible actue.
+Estos distorsionan los precios y por lo tanto las decisiones de los hogares y las empresas.
+*** Principio 7: Los gobiernos pueden mejorar algunas veces los resultados del mercado
+La magia de la mano invisible solo funciona cuando el gobierno hacer valer las reglas y mantiene las instituciones que hace que el mercado
+funcione.
+
+Un punto muy importante es que las economias de mercado necesitan instituciones que hagan valer los *derechos de propiedad*, es decir que
+individuos puedan ejercer propiedad y control sobre los recursos escasos.
+
+El gobierno debe promover la eficiencia y la igualdad, es decir, las politicas gubernamentales deben tener como objetivo agrandar el tamano
+del pay o la manera en que este se reparte.
+
+El gobierno tambien debe intervenir cuando ocurre una *falla de mercado*, esto es cuando el mercado no puede asignar de manera eficiente los
+recursos. Las causas de una falla de mercado pueden ser:
+
+- *Externalidad* El efecto que tienen las acciones de una persona en el bienestar de otras. Un ejemplo pueden ser las pedreras que producen polvo y por consiguiente contaminan el aire. Esto es producto de sus actividades normales.
+- *Poder de mercado* Hace referencia al poder de un actor (o grupo pequeno) de influenciar la totalidad del mercado. Monopolios y Oligopolios.
+
+Aunque el gobierno *puede* mejorar los mercados, no siempore lo hacen.
+*** Principio 8: El nivel de vida de un pais depende de su capacidad para producir bienes y servicios
+No es secreto que hay diferencias en el nivel de vida entre paises, mientras que el americano promedio gana $48,000 dolares anuales, el
+Nigeriano promedio solo gana $1,200.
+
+Casi todas las diferencias entre el nivel de vida pueden atribuirse a los niveles de *productividad* del mismo, es decir cuantos bienes y
+servicios pueden producir por unidad de tiempo.
+
+La tasa de crecimiento de productividad determina la tasa de crecimiento de los ingresoso.
+
+Cuando se analiza el impacto que puede tener una politica publica en la calidad de vida, se debe pensar en el impacto que tendra en la
+capacidad de producir bienes y servicios.
+*** Principio 9: Cuando el gobierno imprime demasiado dinero, los precios se incrementan
+Se denomina *inflacion* al incremento general de los precios en una economia. Han ocurrido ejemplos extremos de inflacion a lo largo de la
+historia, sin embargo, en los Estados Unidos durante el siglo XXI, esta se ha mantenido alrededor del 2.5% anual.
+
+En el mayor de los casos, el nivel de inflacion esta correlacionado con la cantidad de dinero en circulacion. Si el gobierno imprime mucho
+dinero, la inflacion sera alta; el caso contrario tambien es cierto.
+*** Principio 10: La sociedad enfrenta, a corto plazo, una disyuntiva entre inflacion y desempleo
+- A corto plazo, una inyeccion de dinero estimula el gasto, es decir la demanda de bienes y servicios.
+- Con el tiempo, un incremento en la demanda ocasiona incremento de precios. Antes de que esto suceda, las empresas son estimuladas a producir mas y por lo tanto contratar mas trabajadores.
+- Un incremento en el numero de trabajadores disminuye el desempleo.
+
+En un periodo de 2 anos, las politicas publicas influyen en el desempleo y la inflacion de manera contraria.
+
+El *ciclo economico* consiste en fluctuaciones irregulares y casi impredecibles en la actividad economica (medida por la demanda y/o el desempleo)
+
+Los creadores de politicas publicas tienen mucho poder sobre la demanda, que a su vez influye en la inflacion y el desempleo, hay un debate
+sobre en que medida e incluso si se deberian usar.
+
+* Segunda clase
+- El  mercado es la manera mas efiiente de distribuir los recursoso, pero no necesariamente la mas equitativa.
+- La calidad de vida en un pais esta directamente relacionada con la productividad.
+- El comercio permite que los individuos en una sociedad se especializen.
+- Por lo general los rendimientos marginales son decrecientes pero se busca que sean constantes (que crezcan en linea recta).
+- "Seteres parivus" mantiniendo lo demas constante.
+- Los economistas no toman en cuenta que las personas tomand decisiones en base a sus emociones, los mercadologos si.
+
+* Capitulo 2 
+
